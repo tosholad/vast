@@ -1,0 +1,27 @@
+body {
+	background-image: url("kwame.jpeg");
+	background-position: center;
+  background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+#myHeader {
+  color: black;
+  font-size: 70px;
+  text-align: center;
+
+} 
+#intro {
+  color: black;
+ 	font-size: 40px;
+ 	padding: 10px;
+}
+#subintro{
+  color: black;
+  font-size: 15px;
+}
+#details {
+  color: black;
+  font-size: 20px;
+
+}
+
